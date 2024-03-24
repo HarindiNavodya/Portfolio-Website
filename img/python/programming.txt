@@ -1,0 +1,1 @@
+Do not Progress-module retriever - 80,20,20
